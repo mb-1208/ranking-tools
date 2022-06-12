@@ -1,0 +1,391 @@
+[
+    {
+        "_id": "629aa63a7e4c41715afacb91",
+        "contract_id": "monkeonear.neartopia.near",
+        "token_series_id": "1",
+        "creator_id": "monkeonear.neartopia.near",
+        "in_circulation": 1,
+        "metadata": {
+            "title": "MonkeONear Gen 0 #1",
+            "media": "https://bafybeih4wuotxhh2oj4rmozm33bvwiwmhcxuniegwf2sfl4blthu3bbhwu.ipfs.dweb.link//1.png",
+            "media_hash": null,
+            "copies": null,
+            "issued_at": 1654282911598748000,
+            "expires_at": null,
+            "starts_at": null,
+            "updated_at": null,
+            "extra": null,
+            "reference": "https://bafybeih4wuotxhh2oj4rmozm33bvwiwmhcxuniegwf2sfl4blthu3bbhwu.ipfs.dweb.link//1.json",
+            "reference_hash": null,
+            "description": "The first ever community voting tool and wallet management tool comes with a built in data analysis system to find the best project on NEAR PROTOCOL.",
+            "edition": 1,
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Yellow"
+                },
+                {
+                    "trait_type": "Fur",
+                    "value": "black"
+                },
+                {
+                    "trait_type": "Clothes",
+                    "value": " Green Kimono"
+                },
+                {
+                    "trait_type": "Necklace",
+                    "value": "Green Headphone"
+                },
+                {
+                    "trait_type": "Earrings",
+                    "value": "None"
+                },
+                {
+                    "trait_type": "Headwear",
+                    "value": "Cat Ears Purple"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Red Confident Eyes"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Movie Glasses"
+                },
+                {
+                    "trait_type": "Mouth",
+                    "value": "rainbow"
+                },
+                {
+                    "trait_type": "Parrot",
+                    "value": "Black"
+                },
+                {
+                    "trait_type": "Hands",
+                    "value": "Card"
+                }
+            ],
+            "creator_id": "monkeonear.neartopia.near",
+            "score": 92.08333333333334
+        },
+        "price": null,
+        "royalty": {
+            "team_monkeo.near": 250,
+            "secretskelliessociety.near": 100,
+            "royalties_monkeo.near": 250
+        }
+    },
+    {
+        "_id": "629aa6397e4c41715afac885",
+        "contract_id": "monkeonear.neartopia.near",
+        "token_series_id": "2",
+        "creator_id": "monkeonear.neartopia.near",
+        "in_circulation": 1,
+        "metadata": {
+            "title": "MonkeONear Gen 0 #2",
+            "media": "https://bafybeih4wuotxhh2oj4rmozm33bvwiwmhcxuniegwf2sfl4blthu3bbhwu.ipfs.dweb.link//2.png",
+            "media_hash": null,
+            "copies": null,
+            "issued_at": 1654211045883983400,
+            "expires_at": null,
+            "starts_at": null,
+            "updated_at": null,
+            "extra": null,
+            "reference": "https://bafybeih4wuotxhh2oj4rmozm33bvwiwmhcxuniegwf2sfl4blthu3bbhwu.ipfs.dweb.link//2.json",
+            "reference_hash": null,
+            "description": "The first ever community voting tool and wallet management tool comes with a built in data analysis system to find the best project on NEAR PROTOCOL.",
+            "edition": 2,
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "Fur",
+                    "value": "black"
+                },
+                {
+                    "trait_type": "Clothes",
+                    "value": "Blue Jersey"
+                },
+                {
+                    "trait_type": "Necklace",
+                    "value": "None"
+                },
+                {
+                    "trait_type": "Earrings",
+                    "value": "LFG Violet"
+                },
+                {
+                    "trait_type": "Headwear",
+                    "value": "Bandana Black"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Red Eyes"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Eye Patch"
+                },
+                {
+                    "trait_type": "Mouth",
+                    "value": "confident"
+                },
+                {
+                    "trait_type": "Parrot",
+                    "value": "None"
+                },
+                {
+                    "trait_type": "Hands",
+                    "value": "Tobacco"
+                }
+            ],
+            "creator_id": "monkeonear.neartopia.near",
+            "score": 44.166666666666664
+        },
+        "price": null,
+        "royalty": {
+            "team_monkeo.near": 250,
+            "secretskelliessociety.near": 100,
+            "royalties_monkeo.near": 250
+        }
+    },
+    {
+        "_id": "629aa6397e4c41715afac888",
+        "contract_id": "monkeonear.neartopia.near",
+        "token_series_id": "3",
+        "creator_id": "monkeonear.neartopia.near",
+        "in_circulation": 1,
+        "metadata": {
+            "title": "MonkeONear Gen 0 #3",
+            "media": "https://bafybeih4wuotxhh2oj4rmozm33bvwiwmhcxuniegwf2sfl4blthu3bbhwu.ipfs.dweb.link//3.png",
+            "media_hash": null,
+            "copies": null,
+            "issued_at": 1654299007684181200,
+            "expires_at": null,
+            "starts_at": null,
+            "updated_at": null,
+            "extra": null,
+            "reference": "https://bafybeih4wuotxhh2oj4rmozm33bvwiwmhcxuniegwf2sfl4blthu3bbhwu.ipfs.dweb.link//3.json",
+            "reference_hash": null,
+            "description": "The first ever community voting tool and wallet management tool comes with a built in data analysis system to find the best project on NEAR PROTOCOL.",
+            "edition": 3,
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Dawn"
+                },
+                {
+                    "trait_type": "Fur",
+                    "value": "Brown"
+                },
+                {
+                    "trait_type": "Clothes",
+                    "value": "Green TShirt"
+                },
+                {
+                    "trait_type": "Necklace",
+                    "value": "MON Diamond"
+                },
+                {
+                    "trait_type": "Earrings",
+                    "value": "Gold"
+                },
+                {
+                    "trait_type": "Headwear",
+                    "value": "Gray Police Cap"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Red Eyes"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Dope Violet"
+                },
+                {
+                    "trait_type": "Mouth",
+                    "value": "thinking"
+                },
+                {
+                    "trait_type": "Parrot",
+                    "value": "Green"
+                },
+                {
+                    "trait_type": "Hands",
+                    "value": "Dagger"
+                }
+            ],
+            "creator_id": "monkeonear.neartopia.near",
+            "score": 42.5
+        },
+        "price": null,
+        "royalty": {
+            "team_monkeo.near": 250,
+            "secretskelliessociety.near": 100,
+            "royalties_monkeo.near": 250
+        },
+        "has_price": null,
+        "lowest_price": null,
+        "updated_at": 1654310549411
+    },
+    {
+        "_id": "629aa6397e4c41715afac7b7",
+        "contract_id": "monkeonear.neartopia.near",
+        "token_series_id": "4",
+        "creator_id": "monkeonear.neartopia.near",
+        "in_circulation": 1,
+        "metadata": {
+            "title": "MonkeONear Gen 0 #4",
+            "media": "https://bafybeih4wuotxhh2oj4rmozm33bvwiwmhcxuniegwf2sfl4blthu3bbhwu.ipfs.dweb.link//4.png",
+            "media_hash": null,
+            "copies": null,
+            "issued_at": 1654287391842740500,
+            "expires_at": null,
+            "starts_at": null,
+            "updated_at": null,
+            "extra": null,
+            "reference": "https://bafybeih4wuotxhh2oj4rmozm33bvwiwmhcxuniegwf2sfl4blthu3bbhwu.ipfs.dweb.link//4.json",
+            "reference_hash": null,
+            "description": "The first ever community voting tool and wallet management tool comes with a built in data analysis system to find the best project on NEAR PROTOCOL.",
+            "edition": 4,
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Mars"
+                },
+                {
+                    "trait_type": "Fur",
+                    "value": "White"
+                },
+                {
+                    "trait_type": "Clothes",
+                    "value": "Titanium Long Sleeve"
+                },
+                {
+                    "trait_type": "Necklace",
+                    "value": "Gradient Purple Headphone"
+                },
+                {
+                    "trait_type": "Earrings",
+                    "value": "Gold"
+                },
+                {
+                    "trait_type": "Headwear",
+                    "value": "Bandana Gold"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Red Confident Eyes"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Goggles"
+                },
+                {
+                    "trait_type": "Mouth",
+                    "value": "mustache"
+                },
+                {
+                    "trait_type": "Parrot",
+                    "value": "None"
+                },
+                {
+                    "trait_type": "Hands",
+                    "value": "Joystick"
+                }
+            ],
+            "creator_id": "monkeonear.neartopia.near",
+            "score": 11
+        },
+        "price": null,
+        "royalty": {
+            "team_monkeo.near": 250,
+            "secretskelliessociety.near": 100,
+            "royalties_monkeo.near": 250
+        },
+        "has_price": null,
+        "lowest_price": null,
+        "updated_at": 1654348584415
+    },
+    {
+        "_id": "629aa63d7e4c41715afadad9",
+        "contract_id": "monkeonear.neartopia.near",
+        "token_series_id": "5",
+        "creator_id": "monkeonear.neartopia.near",
+        "in_circulation": 1,
+        "metadata": {
+            "title": "MonkeONear Gen 0 #5",
+            "media": "https://bafybeih4wuotxhh2oj4rmozm33bvwiwmhcxuniegwf2sfl4blthu3bbhwu.ipfs.dweb.link//5.png",
+            "media_hash": null,
+            "copies": null,
+            "issued_at": 1654285213992333800,
+            "expires_at": null,
+            "starts_at": null,
+            "updated_at": null,
+            "extra": null,
+            "reference": "https://bafybeih4wuotxhh2oj4rmozm33bvwiwmhcxuniegwf2sfl4blthu3bbhwu.ipfs.dweb.link//5.json",
+            "reference_hash": null,
+            "description": "The first ever community voting tool and wallet management tool comes with a built in data analysis system to find the best project on NEAR PROTOCOL.",
+            "edition": 5,
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Blue"
+                },
+                {
+                    "trait_type": "Fur",
+                    "value": "Gold"
+                },
+                {
+                    "trait_type": "Clothes",
+                    "value": "Blue Kimono"
+                },
+                {
+                    "trait_type": "Necklace",
+                    "value": "White Scarf"
+                },
+                {
+                    "trait_type": "Earrings",
+                    "value": "None"
+                },
+                {
+                    "trait_type": "Headwear",
+                    "value": "Winner Hat"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Normal Eyes"
+                },
+                {
+                    "trait_type": "Eyewear",
+                    "value": "Dope Violet"
+                },
+                {
+                    "trait_type": "Mouth",
+                    "value": "mustache"
+                },
+                {
+                    "trait_type": "Parrot",
+                    "value": "None"
+                },
+                {
+                    "trait_type": "Hands",
+                    "value": "None"
+                }
+            ],
+            "creator_id": "monkeonear.neartopia.near",
+            "score": 196.68605657907983
+        },
+        "price": null,
+        "royalty": {
+            "team_monkeo.near": 250,
+            "secretskelliessociety.near": 100,
+            "royalties_monkeo.near": 250
+        },
+        "has_price": null,
+        "lowest_price": null,
+        "updated_at": 1654353194522
+    }
+]

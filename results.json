@@ -1,0 +1,825 @@
+[
+  {
+    "_id": "61f0a14bc6a48a907bd10937",
+    "contract_id": "asac.near",
+    "token_series_id": "1",
+    "creator_id": "asac.near",
+    "in_circulation": 1,
+    "metadata": {
+      "name": "Antisocial Ape Club #2",
+      "symbol": "ASAC",
+      "description": "A collection of 3333 unique, randomly generated pixel art ape NFTs stored on the NEAR blockchain.",
+      "seller_fee_basis_points": 500,
+      "image": "image.png",
+      "external_url": "https://antisocialape.club/",
+      "attributes": [
+        {
+          "trait_type": "Antisocial Ape Club",
+          "value": "Genesis Apes"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blunt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Purple Visor"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "None"
+        },
+        {
+          "trait_type": "Earrings",
+          "value": "Silver Stud"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "asac.near",
+            "share": 100
+          }
+        ]
+      },
+      "title": "Antisocial Ape Club #2",
+      "media": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/1.png",
+      "media_hash": null,
+      "issued_at": "1643135665222315684",
+      "expires_at": null,
+      "starts_at": null,
+      "updated_at": null,
+      "extra": null,
+      "reference": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/1.json",
+      "reference_hash": null,
+      "creator_id": "asac.near",
+      "collection": null,
+      "score": 62.71771274181419
+    },
+    "price": null,
+    "royalty": {
+      "asac.near": "500"
+    },
+    "isMediaCdn": true,
+    "collection": null,
+    "lowest_price": null,
+    "has_price": null,
+    "updated_at": 1650573343137
+  },
+  {
+    "_id": "61f0a145c6a48a907bd102c8",
+    "contract_id": "asac.near",
+    "token_series_id": "2",
+    "creator_id": "asac.near",
+    "in_circulation": 1,
+    "metadata": {
+      "name": "Antisocial Ape Club #3",
+      "symbol": "ASAC",
+      "description": "A collection of 3333 unique, randomly generated pixel art ape NFTs stored on the NEAR blockchain.",
+      "seller_fee_basis_points": 500,
+      "image": "image.png",
+      "external_url": "https://antisocialape.club/",
+      "attributes": [
+        {
+          "trait_type": "Antisocial Ape Club",
+          "value": "Genesis Apes"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blunt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "None"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Vaporwave Backwards Cap"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        },
+        {
+          "trait_type": "Earrings",
+          "value": "Gold Stud"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "asac.near",
+            "share": 100
+          }
+        ]
+      },
+      "title": "Antisocial Ape Club #3",
+      "media": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/2.png",
+      "media_hash": null,
+      "issued_at": "1643135624587042250",
+      "expires_at": null,
+      "starts_at": null,
+      "updated_at": null,
+      "extra": null,
+      "reference": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/2.json",
+      "reference_hash": null,
+      "creator_id": "asac.near",
+      "collection": null,
+      "score": 62.61045994229016
+    },
+    "price": null,
+    "royalty": {
+      "asac.near": "500"
+    },
+    "isMediaCdn": true,
+    "collection": null,
+    "lowest_price": null,
+    "updated_at": 1652772511797,
+    "has_price": null
+  },
+  {
+    "_id": "61f0a14cc6a48a907bd109bc",
+    "contract_id": "asac.near",
+    "token_series_id": "3",
+    "creator_id": "asac.near",
+    "in_circulation": 1,
+    "metadata": {
+      "name": "Antisocial Ape Club #4",
+      "symbol": "ASAC",
+      "description": "A collection of 3333 unique, randomly generated pixel art ape NFTs stored on the NEAR blockchain.",
+      "seller_fee_basis_points": 500,
+      "image": "image.png",
+      "external_url": "https://antisocialape.club/",
+      "attributes": [
+        {
+          "trait_type": "Antisocial Ape Club",
+          "value": "Genesis Apes"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Khaki"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigarette"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "None"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sombrero"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "None"
+        },
+        {
+          "trait_type": "Earrings",
+          "value": "Gold Stud"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "asac.near",
+            "share": 100
+          }
+        ]
+      },
+      "title": "Antisocial Ape Club #4",
+      "media": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/3.png",
+      "media_hash": null,
+      "issued_at": "1643135678372903297",
+      "expires_at": null,
+      "starts_at": null,
+      "updated_at": null,
+      "extra": null,
+      "reference": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/3.json",
+      "reference_hash": null,
+      "creator_id": "asac.near",
+      "collection": null,
+      "score": 37.11028305217678
+    },
+    "price": null,
+    "royalty": {
+      "asac.near": "500"
+    },
+    "isMediaCdn": true,
+    "collection": null,
+    "lowest_price": null,
+    "has_price": null,
+    "updated_at": 1650771758074
+  },
+  {
+    "_id": "61f0a14ec6a48a907bd10bf9",
+    "contract_id": "asac.near",
+    "token_series_id": "4",
+    "creator_id": "asac.near",
+    "in_circulation": 1,
+    "metadata": {
+      "name": "Antisocial Ape Club #5",
+      "symbol": "ASAC",
+      "description": "A collection of 3333 unique, randomly generated pixel art ape NFTs stored on the NEAR blockchain.",
+      "seller_fee_basis_points": 500,
+      "image": "image.png",
+      "external_url": "https://antisocialape.club/",
+      "attributes": [
+        {
+          "trait_type": "Antisocial Ape Club",
+          "value": "Genesis Apes"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Brown"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "None"
+        },
+        {
+          "trait_type": "Head",
+          "value": "None"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        },
+        {
+          "trait_type": "Earrings",
+          "value": "None"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "asac.near",
+            "share": 100
+          }
+        ]
+      },
+      "title": "Antisocial Ape Club #5",
+      "media": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/4.png",
+      "media_hash": null,
+      "issued_at": "1643132819872129151",
+      "expires_at": null,
+      "starts_at": null,
+      "updated_at": null,
+      "extra": null,
+      "reference": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/4.json",
+      "reference_hash": null,
+      "creator_id": "asac.near",
+      "collection": null,
+      "score": 34.9481693594596
+    },
+    "price": null,
+    "royalty": {
+      "asac.near": "500"
+    },
+    "isMediaCdn": true,
+    "collection": null,
+    "lowest_price": {
+      "$numberDecimal": "400000000000000000000000000"
+    },
+    "updated_at": 1650073538352,
+    "has_price": true
+  },
+  {
+    "_id": "61f0a148c6a48a907bd1065f",
+    "contract_id": "asac.near",
+    "token_series_id": "5",
+    "creator_id": "asac.near",
+    "in_circulation": 1,
+    "metadata": {
+      "name": "Antisocial Ape Club #6",
+      "symbol": "ASAC",
+      "description": "A collection of 3333 unique, randomly generated pixel art ape NFTs stored on the NEAR blockchain.",
+      "seller_fee_basis_points": 500,
+      "image": "image.png",
+      "external_url": "https://antisocialape.club/",
+      "attributes": [
+        {
+          "trait_type": "Antisocial Ape Club",
+          "value": "Genesis Apes"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "None"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "None"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "None"
+        },
+        {
+          "trait_type": "Earrings",
+          "value": "Silver Stud"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "asac.near",
+            "share": 100
+          }
+        ]
+      },
+      "title": "Antisocial Ape Club #6",
+      "media": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/5.png",
+      "media_hash": null,
+      "issued_at": "1643135661510924041",
+      "expires_at": null,
+      "starts_at": null,
+      "updated_at": null,
+      "extra": null,
+      "reference": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/5.json",
+      "reference_hash": null,
+      "creator_id": "asac.near",
+      "collection": null,
+      "score": 106.86118243409153
+    },
+    "price": null,
+    "royalty": {
+      "asac.near": "500"
+    },
+    "isMediaCdn": true,
+    "collection": null,
+    "lowest_price": null,
+    "updated_at": 1649489685487,
+    "has_price": null
+  },
+  {
+    "_id": "61f0a148c6a48a907bd1062f",
+    "contract_id": "asac.near",
+    "token_series_id": "6",
+    "creator_id": "asac.near",
+    "in_circulation": 1,
+    "metadata": {
+      "name": "Antisocial Ape Club #7",
+      "symbol": "ASAC",
+      "description": "A collection of 3333 unique, randomly generated pixel art ape NFTs stored on the NEAR blockchain.",
+      "seller_fee_basis_points": 500,
+      "image": "image.png",
+      "external_url": "https://antisocialape.club/",
+      "attributes": [
+        {
+          "trait_type": "Antisocial Ape Club",
+          "value": "Genesis Apes"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Cow"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blunt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "None"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Vaporwave Backwards Cap"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "None"
+        },
+        {
+          "trait_type": "Earrings",
+          "value": "Gold Stud"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "asac.near",
+            "share": 100
+          }
+        ]
+      },
+      "title": "Antisocial Ape Club #7",
+      "media": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/6.png",
+      "media_hash": null,
+      "issued_at": "1643132669486671210",
+      "expires_at": null,
+      "starts_at": null,
+      "updated_at": null,
+      "extra": null,
+      "reference": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/6.json",
+      "reference_hash": null,
+      "creator_id": "asac.near",
+      "collection": null,
+      "score": 62.74930999544007
+    },
+    "price": null,
+    "royalty": {
+      "asac.near": "500"
+    },
+    "isMediaCdn": true,
+    "collection": null,
+    "lowest_price": null,
+    "has_price": null,
+    "updated_at": 1646389791539
+  },
+  {
+    "_id": "61f0a148c6a48a907bd10590",
+    "contract_id": "asac.near",
+    "token_series_id": "7",
+    "creator_id": "asac.near",
+    "in_circulation": 1,
+    "metadata": {
+      "name": "Antisocial Ape Club #8",
+      "symbol": "ASAC",
+      "description": "A collection of 3333 unique, randomly generated pixel art ape NFTs stored on the NEAR blockchain.",
+      "seller_fee_basis_points": 500,
+      "image": "image.png",
+      "external_url": "https://antisocialape.club/",
+      "attributes": [
+        {
+          "trait_type": "Antisocial Ape Club",
+          "value": "Genesis Apes"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Black Face Mask"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Flat Cap"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "None"
+        },
+        {
+          "trait_type": "Earrings",
+          "value": "None"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "asac.near",
+            "share": 100
+          }
+        ]
+      },
+      "title": "Antisocial Ape Club #8",
+      "media": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/7.png",
+      "media_hash": null,
+      "issued_at": "1643135619241118138",
+      "expires_at": null,
+      "starts_at": null,
+      "updated_at": null,
+      "extra": null,
+      "reference": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/7.json",
+      "reference_hash": null,
+      "creator_id": "asac.near",
+      "collection": null,
+      "score": 60.72304030566867
+    },
+    "price": null,
+    "royalty": {
+      "asac.near": "500"
+    },
+    "isMediaCdn": true,
+    "collection": null,
+    "lowest_price": null,
+    "updated_at": 1651881433499,
+    "has_price": null
+  },
+  {
+    "_id": "61f0a16cc6a48a907bd121ab",
+    "contract_id": "asac.near",
+    "token_series_id": "8",
+    "creator_id": "asac.near",
+    "in_circulation": 1,
+    "metadata": {
+      "name": "Antisocial Ape Club #9",
+      "symbol": "ASAC",
+      "description": "A collection of 3333 unique, randomly generated pixel art ape NFTs stored on the NEAR blockchain.",
+      "seller_fee_basis_points": 500,
+      "image": "image.png",
+      "external_url": "https://antisocialape.club/",
+      "attributes": [
+        {
+          "trait_type": "Antisocial Ape Club",
+          "value": "Genesis Apes"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blunt"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Orange Beanie"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        },
+        {
+          "trait_type": "Earrings",
+          "value": "Silver Stud"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "asac.near",
+            "share": 100
+          }
+        ]
+      },
+      "title": "Antisocial Ape Club #9",
+      "media": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/8.png",
+      "media_hash": null,
+      "issued_at": "1643135628502176989",
+      "expires_at": null,
+      "starts_at": null,
+      "updated_at": null,
+      "extra": null,
+      "reference": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/8.json",
+      "reference_hash": null,
+      "creator_id": "asac.near",
+      "collection": null,
+      "score": 51.724149368029394
+    },
+    "price": null,
+    "royalty": {
+      "asac.near": "500"
+    },
+    "isMediaCdn": true,
+    "collection": null,
+    "lowest_price": null,
+    "has_price": null,
+    "updated_at": 1646583104163
+  },
+  {
+    "_id": "61f0a145c6a48a907bd102ce",
+    "contract_id": "asac.near",
+    "token_series_id": "9",
+    "creator_id": "asac.near",
+    "in_circulation": 1,
+    "metadata": {
+      "name": "Antisocial Ape Club #10",
+      "symbol": "ASAC",
+      "description": "A collection of 3333 unique, randomly generated pixel art ape NFTs stored on the NEAR blockchain.",
+      "seller_fee_basis_points": 500,
+      "image": "image.png",
+      "external_url": "https://antisocialape.club/",
+      "attributes": [
+        {
+          "trait_type": "Antisocial Ape Club",
+          "value": "Genesis Apes"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigarette"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Golden Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Devil Horns"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "None"
+        },
+        {
+          "trait_type": "Earrings",
+          "value": "Silver Stud"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "asac.near",
+            "share": 100
+          }
+        ]
+      },
+      "title": "Antisocial Ape Club #10",
+      "media": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/9.png",
+      "media_hash": null,
+      "issued_at": "1643134423232219685",
+      "expires_at": null,
+      "starts_at": null,
+      "updated_at": null,
+      "extra": null,
+      "reference": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/9.json",
+      "reference_hash": null,
+      "creator_id": "asac.near",
+      "collection": null,
+      "score": 88.68721692128618
+    },
+    "price": null,
+    "royalty": {
+      "asac.near": "500"
+    },
+    "isMediaCdn": true,
+    "collection": null,
+    "lowest_price": null,
+    "has_price": null
+  },
+  {
+    "_id": "61f0a146c6a48a907bd10411",
+    "contract_id": "asac.near",
+    "token_series_id": "10",
+    "creator_id": "asac.near",
+    "in_circulation": 1,
+    "metadata": {
+      "name": "Antisocial Ape Club #11",
+      "symbol": "ASAC",
+      "description": "A collection of 3333 unique, randomly generated pixel art ape NFTs stored on the NEAR blockchain.",
+      "seller_fee_basis_points": 500,
+      "image": "image.png",
+      "external_url": "https://antisocialape.club/",
+      "attributes": [
+        {
+          "trait_type": "Antisocial Ape Club",
+          "value": "Genesis Apes"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Rainbow"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigarette"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Golden Goggles"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Propeller Hat"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        },
+        {
+          "trait_type": "Earrings",
+          "value": "None"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "image.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": [
+          {
+            "address": "asac.near",
+            "share": 100
+          }
+        ]
+      },
+      "title": "Antisocial Ape Club #11",
+      "media": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/10.png",
+      "media_hash": null,
+      "issued_at": "1643133322797004177",
+      "expires_at": null,
+      "starts_at": null,
+      "updated_at": null,
+      "extra": null,
+      "reference": "https://ipfs.io/ipfs/bafybeicj5zfhe3ytmfleeiindnqlj7ydkpoyitxm7idxdw2kucchojf7v4/10.json",
+      "reference_hash": null,
+      "creator_id": "asac.near",
+      "collection": null,
+      "score": 121.32870788173524
+    },
+    "price": null,
+    "royalty": {
+      "asac.near": "500"
+    },
+    "isMediaCdn": true,
+    "collection": null,
+    "lowest_price": {
+      "$numberDecimal": "2220000000000000000000000000"
+    },
+    "updated_at": 1654663515997,
+    "has_price": true
+  }
+]
