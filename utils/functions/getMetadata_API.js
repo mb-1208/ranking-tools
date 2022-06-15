@@ -3,7 +3,7 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 
 const getRarity = () => {
-  processRarity(1);
+  processRarity(1); // START FROM TOKEN ID NUMBER
 };
 
 const everything = async (i) => {
@@ -17,7 +17,7 @@ const everything = async (i) => {
 
 async function processRarity(limit) {
     var resultJson = [];
-    for (var i = limit; i < limit + 2; i++) {
+    for (var i = limit; i < limit + 2; i++) { // END FROM TOKEN ID NUMBER
         let res = await everything(i);
         console.log(res);
         resultJson.push(res);

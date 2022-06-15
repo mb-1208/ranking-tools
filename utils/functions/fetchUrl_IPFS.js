@@ -17,7 +17,7 @@ async function processGet(data) {
         console.log(node);
         resultJson.push(node);
     }
-    fs.writeFileSync(`${basePath}/fetchUrl.json`, JSON.stringify(resultJson, null, 2));
+    fs.writeFileSync(`${basePath}/build/url/fetchUrl.json`, JSON.stringify(resultJson, null, 2));
 }
 
 getUrl();
