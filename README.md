@@ -20,7 +20,13 @@ Install node_modules:
     
 3. If the function success, folder Build will appears with all thing we need inside.
 
-## Procedure
+## Generate API (Get All metadata from API Paras)
 
-### 1. Create an **empty** repository on GitHub
+1. Check all instruction you need to change inside file `utils/functions/getMetadata_API`
 
+2. Run 
+
+    ```shell
+    $ yarn run generate_api
+    ```
+    
