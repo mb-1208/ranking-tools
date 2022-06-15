@@ -66,7 +66,7 @@ Install node_modules:
 
 1. Make sure you've done Generate API first
 
-2. You need to make sure path rawdata inside file `utils/functions/fetchUrl_IPFS.js` is the path of metadata you want to get.
+2. You need to make sure path rawdata inside file `utils/functions/getRarity_fromMetadata_API` is the path of metadata you want to get.
 
 3. Change file name or path inside `utils/functions/getRarity_fromMetadata_API` file
 
