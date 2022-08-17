@@ -17,7 +17,7 @@
     "generate_api": "node utils/functions/getMetadata_API",
     "rarity": "node utils/rarity",
     "rarity_our": "node utils/functions/getRarity_OurMetadata",
-    "rarity_api": "node utils/functions/getRarity_fromMetadata_API",
+    "rarity_api": "node utils/functions/getRarity_Metadata_API",
     "rarity_rank": "node utils/functions/rarity_rank.js",
     "preview": "node utils/preview.js",
     "pixelate": "node utils/pixelate.js",

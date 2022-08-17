@@ -57,7 +57,7 @@ function processRarity(nfts) {
   })
 
   // sort nfts by edition again
-  nfts.sort((a, b) => a.edition - b.edition)
+  // nfts.sort((a, b) => a.edition - b.edition)
 
   console.log(nfts);
 
