@@ -1,4 +1,4 @@
-# Tools for Ranking and Rarity
+# Tools for Ranking and Rarity NFTs
 
 # Tutorial
 
